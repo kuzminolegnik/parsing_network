@@ -25,7 +25,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a02ca04c-77eb-48f6-a614-aa0a112a07d0" name="Default Changelist" comment="lesson5" />
+    <list default="true" id="a02ca04c-77eb-48f6-a614-aa0a112a07d0" name="Default Changelist" comment="lesson6">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/parsing_network.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/spiders/leroymerlin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +59,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson-5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,6 +83,58 @@
       <recent name="C:\Users\OLEG-PC\PycharmProjects\parsing_network" />
     </key>
   </component>
+  <component name="RunManager" selected="Python.runner">
+    <configuration name="leroymerlin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="parsing_network" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson6/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson6/spiders/leroymerlin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="parsing_network" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson6/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runner" />
+        <item itemvalue="Python.leroymerlin" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -80,6 +149,9 @@
       <workItem from="1587805662980" duration="20670000" />
       <workItem from="1587842701784" duration="1635000" />
       <workItem from="1587899883725" duration="2478000" />
+      <workItem from="1588186566435" duration="284000" />
+      <workItem from="1588186968642" duration="1464000" />
+      <workItem from="1588188576569" duration="10716000" />
     </task>
     <task id="LOCAL-00001" summary="lesson5">
       <created>1587902245251</created>
@@ -88,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587902245251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson6">
+      <created>1588189111829</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588189111829</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,61 +199,70 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson5" />
+    <MESSAGE value="lesson6" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="706" y="357" width="662" height="487" key="#Notifications" timestamp="1587671566621">
       <screen x="0" y="0" width="1646" height="989" />
     </state>
     <state x="706" y="357" width="662" height="487" key="#Notifications/0.0.1646.989@0.0.1646.989" timestamp="1587671566621" />
+    <state x="475" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588186712961">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="475" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1588186712961" />
+    <state x="28" y="63" width="1253" height="673" key="DiffContextDialog" timestamp="1588199077935">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="28" y="63" width="1253" height="673" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1588199077935" />
     <state x="603" y="235" key="FileChooserDialogImpl" timestamp="1587758272654">
       <screen x="0" y="0" width="1646" height="989" />
     </state>
     <state x="603" y="235" key="FileChooserDialogImpl/0.0.1646.989@0.0.1646.989" timestamp="1587758272654" />
-    <state width="1398" height="538" key="GridCell.Tab.0.bottom" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.0.bottom" timestamp="1588199586072">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1588199586072" />
     <state width="1602" height="428" key="GridCell.Tab.0.bottom/0.0.1646.989@0.0.1646.989" timestamp="1587823885072" />
-    <state width="1398" height="538" key="GridCell.Tab.0.center" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.0.center" timestamp="1588199586071">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1588199586071" />
     <state width="1602" height="428" key="GridCell.Tab.0.center/0.0.1646.989@0.0.1646.989" timestamp="1587823885072" />
-    <state width="1398" height="538" key="GridCell.Tab.0.left" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.0.left" timestamp="1588199586071">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1588199586071" />
     <state width="1602" height="428" key="GridCell.Tab.0.left/0.0.1646.989@0.0.1646.989" timestamp="1587823885072" />
-    <state width="1398" height="538" key="GridCell.Tab.0.right" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.0.right" timestamp="1588199586072">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1588199586072" />
     <state width="1602" height="428" key="GridCell.Tab.0.right/0.0.1646.989@0.0.1646.989" timestamp="1587823885072" />
-    <state width="1398" height="538" key="GridCell.Tab.1.bottom" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.1.bottom" timestamp="1588199556840">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1588199556840" />
     <state width="1602" height="428" key="GridCell.Tab.1.bottom/0.0.1646.989@0.0.1646.989" timestamp="1587823884987" />
-    <state width="1398" height="538" key="GridCell.Tab.1.center" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.1.center" timestamp="1588199556840">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1588199556840" />
     <state width="1602" height="428" key="GridCell.Tab.1.center/0.0.1646.989@0.0.1646.989" timestamp="1587823884986" />
-    <state width="1398" height="538" key="GridCell.Tab.1.left" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.1.left" timestamp="1588199556840">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1588199556840" />
     <state width="1602" height="428" key="GridCell.Tab.1.left/0.0.1646.989@0.0.1646.989" timestamp="1587823884986" />
-    <state width="1398" height="538" key="GridCell.Tab.1.right" timestamp="1587902364514">
+    <state width="1398" height="410" key="GridCell.Tab.1.right" timestamp="1588199556840">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1398" height="538" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1587902364514" />
+    <state width="1398" height="410" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1588199556840" />
     <state width="1602" height="428" key="GridCell.Tab.1.right/0.0.1646.989@0.0.1646.989" timestamp="1587823884987" />
-    <state x="62" y="137" key="SettingsEditor" timestamp="1587900090792">
+    <state x="62" y="137" key="SettingsEditor" timestamp="1588192901571">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="62" y="137" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1587900090792" />
+    <state x="62" y="137" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1588192901571" />
     <state x="71" y="157" key="SettingsEditor/0.0.1646.989@0.0.1646.989" timestamp="1587813219199" />
     <state x="313" y="150" key="Vcs.Push.Dialog.v2" timestamp="1587902272234">
       <screen x="0" y="0" width="1440" height="860" />
@@ -196,16 +284,28 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="429" y="32" width="581" height="795" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1587840632025" />
-    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1587837294109">
+    <state x="384" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1588197415407">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1587837294109" />
+    <state x="384" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1588197415407" />
     <state x="443" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587839228689">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="443" y="342" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.860@0.0.1440.860" timestamp="1587839228689" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson6/pipelines.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/parsing_network$runner.coverage" NAME="runner Coverage Results" MODIFIED="1587901873289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson5" />
+    <SUITE FILE_PATH="coverage/parsing_network$runner.coverage" NAME="runner Coverage Results" MODIFIED="1588199551360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6" />
+    <SUITE FILE_PATH="coverage/parsing_network$leroymerlin.coverage" NAME="leroymerlin Coverage Results" MODIFIED="1588190369068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson6/spiders" />
   </component>
 </project>
